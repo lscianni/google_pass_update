@@ -1,12 +1,7 @@
-# user_passwd_update
-## automate password update
-
-AutoPassUpdate.py uses the google client api
-
-auto_pass_update.py uses requests 
-
+## google_pass_update
+AutoPassUpdate.py 
 Update google directory user's passwords from a csv file.
-
+Uses the google client api
 #### CSV file format
 ~~~
 SamAccountName,Password
