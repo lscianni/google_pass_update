@@ -4,6 +4,7 @@
 # From csv file
 #
 # Louis Scianni
+# Released under GPL-v2
 
 import httplib2, os, csv
 from apiclient import discovery
